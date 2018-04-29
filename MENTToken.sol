@@ -9,7 +9,7 @@ pragma solidity ^0.4.18;
 // Total supply: 100,000,000
 // Decimals    : 18
 //
-// (c) by Samuel Corso
+// (c) by Samuel Corso 2018
 // ----------------------------------------------------------------------------
 
 
