@@ -124,7 +124,7 @@ contract MENTToken is ERC20Interface, Owned, SafeMath {
     // Total supply
     // ------------------------------------------------------------------------
     function totalSupply() public constant returns (uint) {
-        return _totalSupply  - balances[address(0)];
+        return _totalSupply - balances[address(0)];
     }
 
 
